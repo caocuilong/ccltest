@@ -2,7 +2,7 @@
 
 这是一个基于 [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) 进行了深度扩展的 Antigravity AI 视频剪辑技能库。
 
-## ✨ 主要增强功能
+## ✨ 主要增强功能  
 
 在原项目基础上，我们重点解决了口播视频自动化剪辑后与 **剪映专业版 (Jianying Pro)** 的无缝对接问题：
 
